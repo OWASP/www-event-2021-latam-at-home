@@ -1,16 +1,14 @@
 ---
-
+order: 1
+lang: ES
+ref: index
 layout: col-sidebar
 title: OWASP LATAM at Home 2021
-displaytext:
+tabtext: Inicio
 tags: LatamAtHome2021
-
 ---
-<br>
-<p>
-  <img alt="Latam at home logo" src="assets/images/LatamAtHome.png">
-</p>
-<br><br>
+{% include navbar.md%}
+
 El OWASP LATAM@Home 2021, es un evento virtual que realizan los Capítulos de OWASP de Latinoamérica para promover la seguridad de las aplicaciones y llevar la filosofía de OWASP a todos los sectores de la sociedad.
 
 Este año, se repetirá el formato virtual del evento, como el año pasado [latam@home2020](/www-event-2020-latam-at-home/).
@@ -30,7 +28,6 @@ El evento se realizará desdse el 6 al 8 de julio de 2021. Mantente informado ta
 Los talleres van a utilizar la plataforma Google Classroom. Esta plataforma es gratuita y tendrán un límite de cupos para los cursos que cuenten con preguntas y respuestas. Para los cursos que no tengan esta limitante, no tendrán límites de cupos.
 
 Las conferencias, serán transmitidas via Youtube. No tendrán límites de cupos pero sí contará con registro de participantes.
-
 
 ### Capítulos Participantes
 Damos las gracias a todos los [capítulos latinoamericanos](http://www.owasp.org/chapters/#SouthAmerica) que han participado en la organización y en las charlas y talleres de este evento. Te invitamos que te unas al capítulo de tu ciudad o país.
