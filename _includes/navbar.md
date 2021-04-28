@@ -4,7 +4,7 @@
 <ul style="text-align: right;">
 {% for page in pages %}
   <li style="display:inline;">
-    <a id="{{ page.lang }}-site" href="{{ sitebaseurl }}{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+    <a id="{{ page.lang }}-site" href="{{ page.url | relative_url }}" class="{{ page.lang }}">{{ page.lang }}</a>
   </li>
 {% endfor %}
 </ul>
@@ -13,7 +13,7 @@
 <ul style="margin-top: -45px;">
 {% for page in pages %}
   <li style="display:inline; margin-right: 5px;" class="tab-link">
-    <a href="{{ sitebaseurl }}{{ page.url }}">{{ page.tabtext }}</a>
+    <a href="{{ page.url | relative_url }}">{{ page.tabtext }}</a>
   </li>
 {% endfor %}
 </ul>
