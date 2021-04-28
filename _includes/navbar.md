@@ -1,4 +1,4 @@
-<img alt="Latam at home logo" src="assets/images/LatamAtHome.png">
+<!--<img alt="Latam at home logo" src="assets/images/LatamAtHome.png">-->
 
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 <ul style="text-align: right;">

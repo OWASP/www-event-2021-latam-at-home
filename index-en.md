@@ -2,7 +2,7 @@
 order: 1
 lang: EN
 ref: index
-layout: col-sidebar
+layout: event
 title: OWASP LATAM at Home 2021
 tabtext: Home
 tags: LatamAtHome2021
