@@ -29,7 +29,6 @@ Los talleres van a utilizar la plataforma Google Classroom. Esta plataforma es g
 
 Las conferencias, serán transmitidas via Youtube. No tendrán límites de cupos pero sí contará con registro de participantes.
 
-
 ### Capítulos Participantes
 Damos las gracias a todos los [capítulos latinoamericanos](http://www.owasp.org/chapters/#SouthAmerica) que han participado en la organización y en las charlas y talleres de este evento. Te invitamos que te unas al capítulo de tu ciudad o país.
 
