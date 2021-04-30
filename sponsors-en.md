@@ -2,7 +2,7 @@
 order: 2
 lang: EN
 ref: sponsors
-layout: col-sidebar
+layout: event
 title: Sponsors
 tabtext: Sponsors
 tags: LatamAtHome2021
