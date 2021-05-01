@@ -1,12 +1,12 @@
 - title: Inicio
   lang: ES
-  url: /index.html
+  url: index.html
 - title: Home
   lang: EN
-  url: /index-en.html
+  url: index-en.html
 - title: Inicio
   lang: PT
-  url: /index-pt.html
+  url: index-pt.html
 - title: Llamado a Oradores/Talleristas
   lang: ES
   url : https://owasp.submittable.com/submit/193838/owasp-latam-home-2021
@@ -31,14 +31,8 @@
 #- title: Schedule
 #  items:
 #    - title: Schedule
-#      url : /schedule/
+#      url : schedule
 #    - title: Keynotes
-#      url : /
+#      url : keynotes
 #    - title: Training
-#      url : /
-#- title: Dropdown
-#  items:
-#    - title: Sponsorship Opportunties
-#      url  : /sponsors/
-#    - title: Volunteer
-#      url  : /
+#      url : trainings
