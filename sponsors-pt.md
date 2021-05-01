@@ -2,13 +2,12 @@
 order: 2
 lang: PT
 ref: sponsors
-layout: col-sidebar
+layout: event
 title: Sponsors
 tabtext: Sponsors
 tags: LatamAtHome2021
 ---
 {% include navbar.md%}
-
 
 OWASP LATAM@Home 2021 Oportunidades de Patrocínio de Eventos
 

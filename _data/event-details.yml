@@ -1,15 +1,17 @@
-title: OWASP LATAM at Home 2021
-dates: 
-#training: Augembuary 99-100
-#conference: September 24
-#registration_url: 
+title: OWASP LATAM@HOME 2021
+dates:
+  ES: Martes 6 al jueves 8 de julio de 2021
+  EN: Tuesday, July 6 to Thursday, July 8, 2021
+  PT: Terça-feira, 6 de julho a quinta-feira, 8 de julho de 2021
 logo_url: https://owasp.org/
-venue: Virtual Online Event
-location: Virtual Online Event
-background: LatamAtHome2.png
+venue:
+  ES: Evento virtual online
+  EN: Virtual online event
+  PT: Evento virtual online
+background: LatamAtHome-banner.png
 color: 02A1BC
 bodycolor: fff
-#analytics: 
-#registration_open: true
-#pitch:
-#image_attribution: 
+registertext:
+  ES: Registrarse
+  EN: Register
+  PT: Registrar-se
