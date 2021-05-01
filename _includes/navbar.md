@@ -16,4 +16,38 @@ if (!alreadyTranslated) {
     document.getElementById("EN-site").click()
   }
 }
+
+function registrationNotYetAvailable(event) {
+  event.preventDefault()
+  let url = window.location.pathname
+  if (url.includes("-en.html")) {
+    alert("Registration is not available yet. Stay tuned to our social networks");
+  } else if (url.includes("-pt.html")) {
+    alert("O registro ainda não está disponível. Fique atento às nossas redes sociais");
+  } else {
+    alert("La inscripción aún no está disponible. Mantente atento a nuestras redes sociales");
+  }
+}
+
+let registerButtons = document.getElementsByClassName("cta-button blue")
+var i
+for (i = 0; i < registerButtons.length; i++) {
+  registerButtons[i].addEventListener("click", registrationNotYetAvailable);
+}
 </script>
+
+<style>
+.left-70 {
+  width: auto!important;  
+}
+.info-h4 {
+  margin-top: 8px!important;
+}
+footer {
+  margin: auto!important;
+  width: 80%!important;
+}
+.footer-wrapper {
+  max-width: 100%!important;
+}
+</style>
