@@ -1,14 +1,3 @@
-<!--<img alt="Latam at home logo" src="assets/images/LatamAtHome.png">-->
-
-{% assign pages=site.pages | where:"lang", page.lang | sort: 'order' %}
-<ul>
-{% for page in pages %}
-  <li style="display:inline; margin-right: 5px;" class="tab-link">
-    <a href="{{ page.url | relative_url }}">{{ page.tabtext }}</a>
-  </li>
-{% endfor %}
-</ul>
-
 <script>
 let alreadyTranslated = localStorage.getItem("translation")
 if (!alreadyTranslated) {

@@ -1,0 +1,44 @@
+- title: Inicio
+  lang: ES
+  url: /index.html
+- title: Home
+  lang: EN
+  url: /index-en.html
+- title: Inicio
+  lang: PT
+  url: /index-pt.html
+- title: Llamado a Oradores/Talleristas
+  lang: ES
+  url : https://owasp.submittable.com/submit/193838/owasp-latam-home-2021
+  opentab: true
+- title: Call for Speakers/Trainers
+  lang: EN
+  url : https://owasp.submittable.com/submit/193838/owasp-latam-home-2021
+  opentab: true
+- title: Chamada para Palestrantes/Workshops
+  lang: PT
+  url : https://owasp.submittable.com/submit/193838/owasp-latam-home-2021
+  opentab: true
+- title: Sponsors
+  lang: ES
+  url: sponsors.html
+- title: Sponsors
+  lang: EN
+  url: sponsors-en.html
+- title: Sponsors
+  lang: PT
+  url: sponsors-pt.html
+#- title: Schedule
+#  items:
+#    - title: Schedule
+#      url : /schedule/
+#    - title: Keynotes
+#      url : /
+#    - title: Training
+#      url : /
+#- title: Dropdown
+#  items:
+#    - title: Sponsorship Opportunties
+#      url  : /sponsors/
+#    - title: Volunteer
+#      url  : /
