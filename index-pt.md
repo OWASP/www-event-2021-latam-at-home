@@ -22,7 +22,7 @@ A ser anunciado em breve...
 O evento que propomos, visa a realização de três dias de workshops e apresentações simultâneas praticamente sobre temas relacionados à segurança informática.
 
 ### Datas
-O evento será realizado de 6 a 8 de julho de 2021. Mantenha-se informado também sobre nossas redes sociais.
+O evento será realizado de 29 de junho a 1º de julho de 2021. Mantenha-se informado também sobre nossas redes sociais.
 
 ### Plataforma:
 As workshops vão utilizar a plataforma Google Classroom. Esta plataforma é gratuita e terá um limite de cota para cursos que tenham perguntas e respostas. Para cursos que não têm esta limitação, não haverá limite para o número de participantes.

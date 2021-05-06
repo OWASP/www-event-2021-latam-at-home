@@ -22,7 +22,7 @@ Se anunciará proximamente...
 El evento que proponemos, tiene como objetivo realizar tres días de talleres y presentaciones simultáneos de manera virtual sobre temas relacionados a la seguridad informática.
 
 ### Fechas
-El evento se realizará desdse el 6 al 8 de julio de 2021. Mantente informado también en nuestras redes sociales.
+El evento se realizará desde el 29 de junio al 1º de julio de 2021. Mantente informado también en nuestras redes sociales.
 
 ### Plataforma:
 Los talleres van a utilizar la plataforma Google Classroom. Esta plataforma es gratuita y tendrán un límite de cupos para los cursos que cuenten con preguntas y respuestas. Para los cursos que no tengan esta limitante, no tendrán límites de cupos.
