@@ -5,10 +5,7 @@ dates:
   PT: 29 de junho a 1º de julho de 2021
 logo_url: https://owasp.org/
 registration_url: https://www.eventbrite.com/e/owasp-latamhome-2021-registration-153357174437
-venue:
-  ES: Evento virtual online
-  EN: Virtual online event
-  PT: Evento virtual online
+venue: off
 background: LatamAtHome-banner.png
 color: 02A1BC
 bodycolor: fff

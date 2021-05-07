@@ -41,8 +41,13 @@ if (!alreadyTranslated) {
 .left-70 {
   width: auto!important;  
 }
+.event-banner {
+    height: 10em!important;
+    background-color: darkgray!important;
+}
 .info-h4 {
   margin-top: 8px!important;
+  margin-bottom: 15px!important;
 }
 footer {
   margin: auto!important;
