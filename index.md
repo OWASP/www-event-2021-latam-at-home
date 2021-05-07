@@ -14,9 +14,7 @@ El OWASP LATAM@Home 2021, es un evento virtual que realizan los Capítulos de OW
 Este año, se repetirá el formato virtual del evento, como el año pasado [latam@home2020](/www-event-2020-latam-at-home/).
 
 ## Registro del evento
-<p><span style="color:red">
-Se anunciará proximamente...
-</span></p>
+Registro disponible [aquí](https://www.eventbrite.com/e/owasp-latamhome-2021-registration-153357174437)
 
 ### Objetivo del evento:
 El evento que proponemos, tiene como objetivo realizar tres días de talleres y presentaciones simultáneos de manera virtual sobre temas relacionados a la seguridad informática.
@@ -33,7 +31,8 @@ Las conferencias, serán transmitidas via Youtube. No tendrán límites de cupos
 Damos las gracias a todos los [capítulos latinoamericanos](http://www.owasp.org/chapters/#SouthAmerica) que han participado en la organización y en las charlas y talleres de este evento. Te invitamos que te unas al capítulo de tu ciudad o país.
 
 ## Acerca de OWASP
-El Open Web Application Security Project (OWASP) es una fundación sin fines de lucro que trabaja para mejorar la seguridad del software. Nuestros proyectos incluyen:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rr8EON3J1g4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Open Web Application Security Project (OWASP) es una fundación sin fines de lucro que trabaja para mejorar la seguridad del software. Nuestros proyectos incluyen:
 - Proyectos de software de código abierto liderados por la comunidad. Listado [aquí](/projects)
 - Más de 275 capítulos locales en todo el mundo. Listado completo [aquí](/chapters)
 - Decenas de miles de miembros.
