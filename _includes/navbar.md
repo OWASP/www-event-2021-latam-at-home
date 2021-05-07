@@ -19,7 +19,6 @@ if (!alreadyTranslated) {
 
 // function registrationNotYetAvailable(event) {
 //   event.preventDefault()
-//   let url = window.location.pathname
 //   if (url.includes("-en.html")) {
 //     alert("Registration is not available yet. Stay tuned to our social networks");
 //   } else if (url.includes("-pt.html")) {
