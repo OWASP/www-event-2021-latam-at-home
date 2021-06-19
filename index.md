@@ -20,7 +20,7 @@ Registro disponible [aquí](https://www.eventbrite.com/e/owasp-latamhome-2021-re
 El evento que proponemos, tiene como objetivo realizar tres días de talleres y presentaciones simultáneos de manera virtual sobre temas relacionados a la seguridad informática.
 
 ### Fechas
-El evento se realizará desde el 29 de junio al 1º de julio de 2021. Mantente informado también en nuestras redes sociales.
+El evento se realizará desde el 3 al 5 de Agosto de 2021. Mantente informado también en nuestras redes sociales.
 
 ### Plataforma:
 Los talleres van a utilizar la plataforma Google Classroom. Esta plataforma es gratuita y tendrán un límite de cupos para los cursos que cuenten con preguntas y respuestas. Para los cursos que no tengan esta limitante, no tendrán límites de cupos.
@@ -31,7 +31,7 @@ Las conferencias, serán transmitidas via Youtube. No tendrán límites de cupos
 Damos las gracias a todos los [capítulos latinoamericanos](http://www.owasp.org/chapters/#SouthAmerica) que han participado en la organización y en las charlas y talleres de este evento. Te invitamos que te unas al capítulo de tu ciudad o país.
 
 ## Acerca de OWASP
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rr8EON3J1g4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" max-width="560" height="315" src="https://www.youtube.com/embed/rr8EON3J1g4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Open Web Application Security Project (OWASP) es una fundación sin fines de lucro que trabaja para mejorar la seguridad del software. Nuestros proyectos incluyen:
 - Proyectos de software de código abierto liderados por la comunidad. Listado [aquí](/projects)
 - Más de 275 capítulos locales en todo el mundo. Listado completo [aquí](/chapters)

@@ -20,7 +20,7 @@ Registration available [here](https://www.eventbrite.com/e/owasp-latamhome-2021-
 The event we propose, aims to conduct three days of simultaneous workshops and presentations virtually on topics related to application security.
 
 ### Dates
-The event will be held from June 29th to July 1st, 2021. Stay informed on our social media.
+The event will be held from August 3rd to 5th, 2021. Stay informed on our social media.
 
 ### Platform:
 Workshops are going to use the Google Classroom platform. This platform is free and will have a quota limit for courses with questions and answers. For courses that do not have this limitation, there will be no limit to the number of participants.
