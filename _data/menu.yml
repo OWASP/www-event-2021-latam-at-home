@@ -7,17 +7,17 @@
 - title: Inicio
   lang: PT
   url: index-pt.html
-- title: Llamado a Oradores/Talleristas
+- title: CTF
   lang: ES
-  url : https://owasp.submittable.com/submit/193838/owasp-latam-home-2021
+  url : https://discover.securecodewarrior.com/OWASPLATAM-torneo.html
   opentab: true
-- title: Call for Speakers/Trainers
+- title: CTF
   lang: EN
-  url : https://owasp.submittable.com/submit/193838/owasp-latam-home-2021
+  url : https://discover.securecodewarrior.com/OWASPLATAM-torneo.html
   opentab: true
-- title: Chamada para Palestrantes/Workshops
+- title: CTF
   lang: PT
-  url : https://owasp.submittable.com/submit/193838/owasp-latam-home-2021
+  url : https://discover.securecodewarrior.com/OWASPLATAM-torneo.html
   opentab: true
 - title: Sponsors
   lang: ES
