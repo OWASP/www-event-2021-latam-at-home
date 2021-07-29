@@ -1,5 +1,4 @@
 ---
-order: 1
 lang: PT
 ref: index
 layout: event
@@ -31,7 +30,7 @@ As conferências serão transmitidas através do Youtube. Não haverá limite pa
 Gostaríamos de agradecer a todos os [capítulos da América Latina] (http://www.owasp.org/chapters/#SouthAmerica) que participaram da organização e das palestras e workshops deste evento. Convidamos você a participar do capítulo em sua cidade ou país.
 
 ## Sobre OWASP
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yD_Dd8Z8jDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" max-width="560" height="315" src="https://www.youtube.com/embed/yD_Dd8Z8jDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 O Open Web Application Security Project (OWASP) é uma fundação sem fins lucrativos que trabalha para melhorar a segurança do software. Nossos projetos incluem:
 - Projetos de software de código aberto liderados pela comunidade. Listado [aqui](/projetos)
 - Mais de 275 capítulos locais em todo o mundo. Lista completa [aqui](/chapters)

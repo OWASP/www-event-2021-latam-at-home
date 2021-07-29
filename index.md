@@ -1,5 +1,4 @@
 ---
-order: 1
 lang: ES
 ref: index
 layout: event

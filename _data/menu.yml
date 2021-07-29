@@ -28,11 +28,12 @@
 - title: Sponsors
   lang: PT
   url: sponsors-pt.html
-#- title: Schedule
-#  items:
-#    - title: Schedule
-#      url : schedule
-#    - title: Keynotes
-#      url : keynotes
-#    - title: Training
-#      url : trainings
+- title: Agenda
+  lang: ES
+  url: schedule.html
+- title: Agenda
+  lang: PT
+  url: schedule-pt.html
+- title: Schedule
+  lang: EN
+  url: schedule-en.html

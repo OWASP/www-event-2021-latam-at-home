@@ -1,10 +1,8 @@
 ---
-order: 2
 lang: ES
 ref: sponsors
 layout: event
 title: Sponsors
-tabtext: Sponsors
 tags: LatamAtHome2021
 ---
 {% include navbar.md%}
