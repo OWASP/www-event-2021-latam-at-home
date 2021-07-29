@@ -3,7 +3,7 @@
     float:none;
   }
 </style>
-<div id="calendar" style="overflow: hidden; width: 90vw; max-width: 1000px; margin: auto; text-align: center;"/>
+<div id="calendar" style="overflow: auto; width: 90vw; max-width: 1000px; margin: auto; text-align: center;"/>
 
 <script>
   const tzid = Intl.DateTimeFormat().resolvedOptions().timeZone;
