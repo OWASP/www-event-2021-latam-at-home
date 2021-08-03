@@ -12,8 +12,9 @@ tags: LatamAtHome2021
 </script>
 
 <h1>Streaming</h1>
-Neste canal compartilharemos as conversas em português e em outros idiomas, com legendas em português.
-Link para terça-feira 3 de agosto: https://youtu.be/kQzViCVdA0U
+Neste canal compartilharemos as conversas em Português e em outros idiomas, com legendas em Português.
+
+[Link para terça-feira 3 de agosto](https://youtu.be/kQzViCVdA0U)
 
 <h1>Agenda</h1>
 <p>Os workshops serão realizados somente em espanhol, enquanto as palestras serão transmitidas no idioma do orador, mas com legendas em espanhol, português e inglês.</p>
