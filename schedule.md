@@ -25,5 +25,7 @@ http://shorturl.at/gwxMS
 
 Y usar el código correspondiente a cada taller:
 * Introducción a Burp Suite con Web Security Academy: cldjc43
+* Automatización de OWASP ZAP con Python: xws64ea
+* Desarrollo seguro 101, Autenticación segura en Java: au623ju
 
 Si tienes problemas uniéndote con tu cuenta intenta con una cuenta @owasp.org o @gmail.com
