@@ -11,6 +11,10 @@ tags: LatamAtHome2021
   document.lang = "es";
 </script>
 
+<h1>Streaming</h1>
+En este canal se compartirán las charlas en Español y las que están en otro idioma, con los subtítulos en Español.
+Link para el Martes 3 de Agosto: https://youtu.be/kQzViCVdA0U
+
 <h1>Agenda</h1>
 <p>Los talleres se impartirán solamente en Español, mientras que las charlas se transmitirán en el lenguaje del orador, pero con subtítulos en Español, Portugués e Ingles.</p>
 {% include calendar.md%}
