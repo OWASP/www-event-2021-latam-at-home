@@ -12,9 +12,8 @@ tags: LatamAtHome2021
 </script>
 
 <h1>Streaming</h1>
-In this channel we will share the sessions in English and if in other languages, with English subtitles.
 
-[Link for Tuesday 3rd](https://youtu.be/kQzViCVdA0U)
+[Link for Wednesday, August 4th](https://youtu.be/6oTuSTxdGZg)
 
 <h1>Schedule</h1>
 <p>The workshops will be conducted in Spanish only, while the presentations will be transmitted in the language of the speaker, but with subtitles in Spanish, Portuguese and English.</p>
