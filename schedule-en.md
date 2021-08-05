@@ -12,11 +12,15 @@ tags: LatamAtHome2021
 </script>
 
 <h1>Streaming</h1>
+Sessions will be in English, and will have Spanish subtitles
 
-[Link for Wednesday, August 4th](https://youtu.be/6oTuSTxdGZg)
+[Link for Thursday, August 5](https://youtu.be/izG6VWodJs4)
+
 
 <h1>Schedule</h1>
-<p>The workshops will be conducted in Spanish only, while the presentations will be transmitted in the language of the speaker, but with subtitles in Spanish, Portuguese and English.</p>
+<p>The workshops will be conducted in Spanish only, while the presentations will be transmitted in the language of the speaker, but, while possible, with subtitles in Spanish, Portuguese and English.</p>
+<p>The videos will be uploaded to the OWASP LATAM YouTube channel in the coming days, with all subtitles available.</p>
+
 {% include calendar.md%}
 
 For joining a Workshop you must follow the steps listed here:

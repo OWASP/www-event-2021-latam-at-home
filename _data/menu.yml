@@ -19,15 +19,15 @@
   lang: PT
   url : https://discover.securecodewarrior.com/OWASPLATAM-torneo.html
   opentab: true
-- title: Sponsors
-  lang: ES
-  url: sponsors.html
-- title: Sponsors
-  lang: EN
-  url: sponsors-en.html
-- title: Sponsors
-  lang: PT
-  url: sponsors-pt.html
+#- title: Sponsors
+#  lang: ES
+#  url: sponsors.html
+#- title: Sponsors
+#  lang: EN
+#  url: sponsors-en.html
+#- title: Sponsors
+#  lang: PT
+#  url: sponsors-pt.html
 - title: Agenda
   lang: ES
   url: schedule.html
