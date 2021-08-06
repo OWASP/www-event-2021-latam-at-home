@@ -7,18 +7,18 @@
 - title: Inicio
   lang: PT
   url: index-pt.html
-- title: CTF
-  lang: ES
-  url : https://discover.securecodewarrior.com/OWASPLATAM-torneo.html
-  opentab: true
-- title: CTF
-  lang: EN
-  url : https://discover.securecodewarrior.com/OWASPLATAM-torneo.html
-  opentab: true
-- title: CTF
-  lang: PT
-  url : https://discover.securecodewarrior.com/OWASPLATAM-torneo.html
-  opentab: true
+#- title: CTF
+#  lang: ES
+#  url : https://discover.securecodewarrior.com/OWASPLATAM-torneo.html
+#  opentab: true
+#- title: CTF
+#  lang: EN
+#  url : https://discover.securecodewarrior.com/OWASPLATAM-torneo.html
+#  opentab: true
+#- title: CTF
+#  lang: PT
+#  url : https://discover.securecodewarrior.com/OWASPLATAM-torneo.html
+#  opentab: true
 #- title: Sponsors
 #  lang: ES
 #  url: sponsors.html
@@ -28,12 +28,21 @@
 #- title: Sponsors
 #  lang: PT
 #  url: sponsors-pt.html
-- title: Agenda
+#- title: Agenda
+#  lang: ES
+#  url: schedule.html
+#- title: Agenda
+#  lang: PT
+#  url: schedule-pt.html
+#- title: Schedule
+#  lang: EN
+#  url: schedule-en.html
+- title: "Presentaciones/Talleres"
   lang: ES
-  url: schedule.html
-- title: Agenda
+  url: sessions.html
+- title: "Sessions/Workshops"
   lang: PT
-  url: schedule-pt.html
-- title: Schedule
+  url: sessions-pt.html
+- title: "Palestras/Workshops"
   lang: EN
-  url: schedule-en.html
+  url: sessions-en.html
